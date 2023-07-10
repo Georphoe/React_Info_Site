@@ -1,0 +1,8 @@
+-Why React? composable and declarative
+-JSX syntax
+-custom component
+-styling with css
+-a static page
+
+
+This project is my inaugural venture into React development. I opted for React due to its composable and declarative nature, as well as its wide adoption within the web development community. Throughout this project, I delved into the concept of JSX syntax, crafting my own custom React components, and implementing CSS styling to construct a static webpage. This served as an invaluable introduction to the fundamentals of React and laid the groundwork for my future endeavors in this powerful JavaScript library.
